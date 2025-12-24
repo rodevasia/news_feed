@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/DOCSPLOIT/news_feed](https://github.com/DOCSPLOIT/news_feed)
-- Live Site URL: [https://docpsloit.github.io/news_feed](https://docpsloit.github.io/news_feed)
+- Solution URL: [https://github.com/DOCSPLOIT/news_feed](https://github.com/rodevasia/news_feed)
+- Live Site URL: [https://docpsloit.github.io/news_feed](https://rodevasia.github.io/news_feed)
 
 ## My process
 
